@@ -21,7 +21,7 @@ word7 = input("Whats your favorite food:   ")
 
 def paragraph ():
   print(f"""
-  You're building an amazing video game story premise! Check out what you've made so far!
+  You're building an amazing video game story! Check out what you've got so far!
   ************************************************************
   I the {word1} {word2} {word3} have {word4} {word5}'s with sister and plan to steal her {word6} {word7}!
   ************************************************************
